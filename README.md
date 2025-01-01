@@ -1,3 +1,11 @@
+COMPONENTS:
+> A WELCOME SCREEN WHICH JUST DISPLAY WELCOME IN ALL THE LANGUAGES
+> A CURSOR TRACKER COMPONENT WHICH TRACK YOUR CURSOR 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
